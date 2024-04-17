@@ -25,3 +25,4 @@ apkid==2.1.2
 frida==14.2.18
 # For semgrep
 ruamel.yaml>=0.16.0<0.17  # pyup: ignore
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
